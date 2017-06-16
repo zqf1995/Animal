@@ -1,7 +1,7 @@
 课题名称讨论论
 
 周：
-name: IoT based, wireless rechargeable wireless animal monitoring system with low power consumption
-项目名称：基于物联网的低功耗无线充电动物遥测系统
+name: IoT based animal monitoring system with wireless energy harvest
+项目名称：基于物联网的无线充电式动物遥测系统
 
 物联网指我们利用树莓派作为枢纽，其次我们希望能够将无线充电的系统加到整个系统里面去。
